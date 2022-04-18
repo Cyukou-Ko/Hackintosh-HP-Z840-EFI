@@ -1,6 +1,6 @@
 # Hackintosh-HP-Z840-EFI
 
-OpenCore Hackintosh EFI file for HP Z840. Please refer to the detailed: 
+OpenCore Hackintosh EFI file for HP Z840. Please refer to the detailed: https://www.bertonhu.com/2021/12/24/HP-Z840-Hackintosh-Big-Sur.html
 
 ## Ver
 * OpenCore: 0.7.9
